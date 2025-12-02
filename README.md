@@ -1,5 +1,5 @@
-**Electronic Gadgets UI
-**
+**Electronic Gadgets UI**
+
 A simple webpage displaying a navigation bar and a grid of electronic gadget cards using HTML and CSS.
 
 **Features**
